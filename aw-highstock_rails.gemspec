@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["alexwebgr"]
   spec.email         = ["email@alex-web.gr"]
 
-  spec.summary       = %q{Wrapper for Highstock charting plugin}
+  spec.summary       = %q{Adds Highstock to Rails Asset Pipeline}
   spec.homepage      = "https://github.com/alexwebgr/aw-highstock_rails"
   spec.license       = "MIT"
 
