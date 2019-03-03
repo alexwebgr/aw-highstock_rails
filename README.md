@@ -1,4 +1,6 @@
 # Aw::HighstockRails
+[![Gem Version](https://badge.fury.io/rb/aw-highstock_rails.svg)](https://badge.fury.io/rb/aw-highstock_rails)
+
 [Highstock](https://www.highcharts.com/blog/products/highstock/) lets you create stock or general timeline charts in pure JavaScript with sophisticated navigation options like 
 a small navigator series, preset date ranges, date picker, scrolling, and panning. 
 This gem includes Highstock as an asset in the Rails 5.1+ asset pipeline. Note: Highstock is not free for commercial use, so you'll need a [valid license](https://shop.highsoft.com/) to use Highstock.
